@@ -14,10 +14,12 @@
   "dependencies": {
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-navigation": "^0.1.6",
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
     "eleventy-njk-unpkg-inliner": "^1.0.2",
     "eleventy-plugin-seo": "^0.5.1",
+    "eleventy-plugin-shopify": "0.0.3",
     "eleventy-plugin-tailwindcss": "^0.3.0",
-    "rimraf": "^3.0.2",
-    "cross-env": "^7.0.3"
+    "rimraf": "^3.0.2"
   }
 }
